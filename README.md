@@ -1,6 +1,6 @@
 # SolarShield
 
-https://solarshield-live.streamlit.app
+**🔗 Live app: [solarshield-live.streamlit.app](https://solarshield-live.streamlit.app)**
 
 **A real-time space weather mission impact estimator built on live public data.**
 

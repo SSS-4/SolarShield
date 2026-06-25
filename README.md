@@ -1,5 +1,7 @@
 # SolarShield
 
+https://solarshield-live.streamlit.app
+
 **A real-time space weather mission impact estimator built on live public data.**
 
 SolarShield pulls live data from NOAA and NASA, cross-references it with the
